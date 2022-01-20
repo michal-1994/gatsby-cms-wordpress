@@ -1,0 +1,14 @@
+.post {
+    box-shadow: 1px 1px 1px 1px #232323;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.post a {
+    text-decoration: none;
+    color: black;
+}
+
+.post span {
+    margin: 5px;
+}
